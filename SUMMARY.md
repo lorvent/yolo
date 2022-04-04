@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Fino Overview!](README.md)
+* [What is an RFV?](what-is-an-rfv.md)
+* [How does the AutoStake feature work?](how-does-the-autostake-feature-work.md)
+* [What is the Treasury?](what-is-the-treasury.md)
+* [Projects comparison](projects-comparison.md)
+* [What is APY?](what-is-apy.md)
+* [Fino = Titano Hard Fork](fino-titano-hard-fork.md)
+* [What is Elastic Supply Token?](what-is-elastic-supply-token.md)
+* [Burn Mechanism?](burn-mechanism.md)
+* [F.I.N.O Game](f.i.n.o-game.md)
+* [What is a Rebase Token?](what-is-a-rebase-token.md)
+* [FINO Token](fino-token.md)
+* [RoadMap](roadmap.md)
+* [How is the APY Backed?](how-is-the-apy-backed.md)
+* [How is the APY calculated?](how-is-the-apy-calculated.md)
+* [Utility of $FINO Trading Fees](utility-of-usdfino-trading-fees.md)
