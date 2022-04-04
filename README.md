@@ -1,4 +1,4 @@
-# Fino Overview!
+# Yolo Overview!
 
 ### &#x20;<a href="#titano-is-positioned-to-lead-a-revolution-in-defi-with-the-titano-autostaking-protocol-or-tap-a-new" id="titano-is-positioned-to-lead-a-revolution-in-defi-with-the-titano-autostaking-protocol-or-tap-a-new"></a>
 

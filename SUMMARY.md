@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fino Overview!](README.md)
+* [Yolo Overview!](README.md)
 * [What is an RFV?](what-is-an-rfv.md)
 * [How does the AutoStake feature work?](how-does-the-autostake-feature-work.md)
 * [What is the Treasury?](what-is-the-treasury.md)
